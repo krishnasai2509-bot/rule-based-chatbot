@@ -1,12 +1,66 @@
-# React + Vite
+# Rule-Based Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple rule-based chatbot built using React and JavaScript. The chatbot provides predefined responses to user messages and offers an interactive chat interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interactive chat interface
+- User and bot messages
+- Auto-scrolling chat window
+- Responsive design
+- Built with React and Vite
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+
+## Project Structure
+
+```
+src/
+public/
+package.json
+vite.config.js
+```
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/krishnasai2509-bot/rule-based-chatbot.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd rule-based-chatbot
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+## Future Improvements
+
+- Add AI integration
+- Store chat history
+- Support multiple themes
+- Improve response handling
+
+## Author
+
+Krishna Sai Vardhan
+GitHub: https://github.com/krishnasai2509-bot
